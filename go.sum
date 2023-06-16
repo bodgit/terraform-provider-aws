@@ -55,8 +55,8 @@ github.com/aws/aws-sdk-go-v2/service/comprehend v1.24.3 h1:IeiVhPkLpV5QXk4evXSPf
 github.com/aws/aws-sdk-go-v2/service/comprehend v1.24.3/go.mod h1:t1X+vZJVxh7GXE8xoXpr8SG1RT31bXSF9BN6Rw9pt1Y=
 github.com/aws/aws-sdk-go-v2/service/computeoptimizer v1.24.1 h1:4v/PocHorBZNv1ouzwokzmplR+yPAy1gQ/UbRGljRsA=
 github.com/aws/aws-sdk-go-v2/service/computeoptimizer v1.24.1/go.mod h1:sBj1DJdinQBuuaeAD/KJAfWEKd/3CtbW8vhgqE0phyw=
-github.com/aws/aws-sdk-go-v2/service/directoryservice v1.17.2 h1:5xFPRg5JxEgRs99ZUsXeg2rpNtDIaB7pc4YMAwpw0XU=
-github.com/aws/aws-sdk-go-v2/service/directoryservice v1.17.2/go.mod h1:cFv2leRY0jEdFFXPC9iT4HSdYuC3LO3dhDEfMPkObtg=
+github.com/aws/aws-sdk-go-v2/service/directoryservice v1.17.3 h1:Ij9KqZAu7JM6H+1pcysufBUi56aaWDSNAVXcNqDHLXg=
+github.com/aws/aws-sdk-go-v2/service/directoryservice v1.17.3/go.mod h1:cFv2leRY0jEdFFXPC9iT4HSdYuC3LO3dhDEfMPkObtg=
 github.com/aws/aws-sdk-go-v2/service/docdbelastic v1.1.11 h1:2SCzkrSH5E6CE0ad+4iWH5iLL3rij3Ep0G9tvah0w7s=
 github.com/aws/aws-sdk-go-v2/service/docdbelastic v1.1.11/go.mod h1:2UtZqzdVwPZMvQfbMXaiTFmqHzH0djspNEJWAmP6U9c=
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.100.0 h1:Wo/HHkC8PcVPXAB9WNwMmGHiA+b6VsJiT/DW2nB2D1w=
