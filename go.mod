@@ -21,7 +21,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.100.0
 	github.com/aws/aws-sdk-go-v2/service/finspace v1.10.1
 	github.com/aws/aws-sdk-go-v2/service/fis v1.14.11
-	github.com/aws/aws-sdk-go-v2/service/glacier v1.14.12
+	github.com/aws/aws-sdk-go-v2/service/glacier v1.14.13
 	github.com/aws/aws-sdk-go-v2/service/healthlake v1.16.1
 	github.com/aws/aws-sdk-go-v2/service/identitystore v1.16.12
 	github.com/aws/aws-sdk-go-v2/service/inspector2 v1.14.1
