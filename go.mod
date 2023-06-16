@@ -46,7 +46,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ssmcontacts v1.15.5
 	github.com/aws/aws-sdk-go-v2/service/ssmincidents v1.21.5
 	github.com/aws/aws-sdk-go-v2/service/swf v1.15.1
-	github.com/aws/aws-sdk-go-v2/service/transcribe v1.26.7
+	github.com/aws/aws-sdk-go-v2/service/transcribe v1.26.8
 	github.com/aws/aws-sdk-go-v2/service/vpclattice v1.0.6
 	github.com/aws/aws-sdk-go-v2/service/xray v1.16.12
 	github.com/aws/smithy-go v1.13.5
