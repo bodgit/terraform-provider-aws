@@ -3,7 +3,7 @@ module github.com/hashicorp/terraform-provider-aws/tools
 go 1.19
 
 require (
-	github.com/bflad/tfproviderdocs v0.11.0
+	github.com/bflad/tfproviderdocs v0.11.1
 	github.com/client9/misspell v0.3.4
 	github.com/golangci/golangci-lint v1.53.2
 	github.com/hashicorp/go-changelog v0.0.0-20201005170154-56335215ce3a
@@ -124,7 +124,7 @@ require (
 	github.com/hashicorp/hcl/v2 v2.16.2 // indirect
 	github.com/hashicorp/logutils v1.0.0 // indirect
 	github.com/hashicorp/terraform-exec v0.17.2 // indirect
-	github.com/hashicorp/terraform-json v0.16.0 // indirect
+	github.com/hashicorp/terraform-json v0.17.1 // indirect
 	github.com/hashicorp/terraform-registry-address v0.1.0 // indirect
 	github.com/hashicorp/terraform-svchost v0.0.0-20200729002733-f050f53b9734 // indirect
 	github.com/hashicorp/yamux v0.0.0-20181012175058-2f1d1f20f75d // indirect
@@ -246,7 +246,7 @@ require (
 	github.com/ykadowak/zerologlint v0.1.1 // indirect
 	github.com/yuin/goldmark v1.5.4 // indirect
 	github.com/yuin/goldmark-meta v1.1.0 // indirect
-	github.com/zclconf/go-cty v1.13.1 // indirect
+	github.com/zclconf/go-cty v1.13.2 // indirect
 	github.com/zclconf/go-cty-yaml v1.0.3 // indirect
 	gitlab.com/bosi/decorder v0.2.3 // indirect
 	go.opencensus.io v0.24.0 // indirect
